@@ -36,13 +36,13 @@ footer {
 }
 
 p {
-    color: #A30008;
+    color: #1D766F;
 }
 
 span {
     background-color: #FFA700;
     padding: 4px;
-    color: #A30008;
+    color: #00665E;
 }
 
 .zagolovok {
@@ -51,4 +51,9 @@ span {
 
 .link-text{
     text-decoration: none;
+}
+
+.link-header {
+    background-color: #00665E;
+    padding: 5px;
 }
