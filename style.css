@@ -46,14 +46,9 @@ span {
 }
 
 .zagolovok {
-    background-color: #1D766F;
+    background-color: #FFA700;
 }
 
 .link-text{
     text-decoration: none;
-}
-
-.link-header {
-    background-color: #00665E;
-    padding: 5px;
 }
