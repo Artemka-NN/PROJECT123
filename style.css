@@ -49,9 +49,13 @@ span {
     background-color: #FFA700;
     color: #00665E;
     width: 200px;
-    height: 25px;
 }
 
 .link-text{
     text-decoration: none;
+}
+
+.link-header {
+    background-color: #00665E;
+    padding: 5px;
 }
