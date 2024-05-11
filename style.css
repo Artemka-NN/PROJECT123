@@ -48,8 +48,8 @@ span {
 .zagolovok {
     background-color: #FFA700;
     color: #00665E;
-    padding: 5px;
     width: 100px;
+    height: 50px;
 }
 
 .link-text{
