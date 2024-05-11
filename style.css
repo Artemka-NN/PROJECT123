@@ -10,6 +10,8 @@ header a {
     text-decoration: none;
     font-size: 25px;
     color: #A30008;
+    background-color: #00665E;
+    padding: 5px;
 }
 nav {
     background-color: #FFBD40;
@@ -53,9 +55,4 @@ span {
 
 .link-text{
     text-decoration: none;
-}
-
-.link-header {
-    background-color: #00665E;
-    padding: 5px;
 }
